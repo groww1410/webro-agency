@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 180" role="img" aria-labelledby="title description">
+  <title id="title">WEBRO logo</title>
+  <desc id="description">A colourful gradient W next to the WEBRO wordmark and the tagline Your Web. Our Craft.</desc>
+  <defs>
+    <linearGradient id="webro-gradient" x1="20" y1="16" x2="155" y2="146" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#53A6FF"/>
+      <stop offset=".22" stop-color="#61E0BD"/>
+      <stop offset=".43" stop-color="#F3DC67"/>
+      <stop offset=".63" stop-color="#FF8B68"/>
+      <stop offset=".82" stop-color="#F472B4"/>
+      <stop offset="1" stop-color="#9B7DF1"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#webro-gradient)" d="M12 24h29l17 73 21-57h26l21 57 17-73h29l-30 132h-30L92 90l-20 66H42L12 24Z"/>
+  <text x="195" y="91" fill="#F5F4EF" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-4">WEBRO</text>
+  <text x="200" y="126" fill="#A4A6AD" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="3">YOUR WEB. OUR CRAFT.</text>
+</svg>
